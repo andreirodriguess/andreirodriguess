@@ -15,7 +15,7 @@ Me chamo Andrei Luiz. Sou graduando em Engenharia de Computação 🖥️⚙️ 
      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  <a href="https://drive.google.com/file/d/1J7OpkK0C3TRMOrXvMY89c98kfbrhyU5h/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1p8eOWcXokcessEhQpVp0Kje8TpiLEO76/view?usp=sharing">
   <img
     alt="Currículo Escrito"
     title="Currículo Escrito"
